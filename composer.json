@@ -2,9 +2,12 @@
     "minimum-stability": "dev",
     "require": {
         "pyrocms/lex": "2.2.*",
+        "cartalyst/sentry": "2.0.*",
         "dflydev/markdown": "1.0.*",
         "dhorrigan/capsule": "2.1.0",
+        "illuminate/cookie": "4.0.*",
         "illuminate/database": "4.0.*",
+        "illuminate/session": "4.0.*",
         "quick/cache": "1.0.*",
         "ruudk/twitter-oauth": "*",
         "simplepie/simplepie": "1.3.*",
